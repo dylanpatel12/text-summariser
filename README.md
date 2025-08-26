@@ -33,7 +33,7 @@ or
   "length": "short"
 }
 
-	•	Results (summary, keywords, sentiment, etc.) are displayed in a styled UI.
+	So the results (summary, keywords, sentiment, etc.) are displayed in a styled UI.
 
 
 
